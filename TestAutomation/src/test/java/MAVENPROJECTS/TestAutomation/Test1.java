@@ -5,9 +5,9 @@ import org.testng.annotations.Test;
 public class Test1 {
 	
 	@Test
-	public class Test2
+	void test1()
 	{
-		
+		System.out.println("Executed");
 	}
 	
 
