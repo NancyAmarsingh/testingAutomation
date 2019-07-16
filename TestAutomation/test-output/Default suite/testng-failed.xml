@@ -3,7 +3,6 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test verbose="2" name="Default test">
     <classes>
-      <class name="MAVENPROJECTS.TestAutomation.App"/>
       <class name="MAVENPROJECTS.TestAutomation.Test1"/>
     </classes>
   </test> <!-- Default test -->
